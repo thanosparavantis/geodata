@@ -1,0 +1,2658 @@
+[
+  {
+    "name": "Δήμος Αβδήρων",
+    "coordinates": [
+      41.0613689,
+      24.9624468
+    ],
+    "slug": "dimos-avdiron"
+  },
+  {
+    "name": "Δήμος Αγαθονησίου",
+    "coordinates": [
+      37.45813,
+      26.97195
+    ],
+    "slug": "dimos-agathonisioy"
+  },
+  {
+    "name": "Δήμος Αγιάς",
+    "coordinates": [
+      39.7182438,
+      22.7558517
+    ],
+    "slug": "dimos-agias"
+  },
+  {
+    "name": "Δήμος Αγίας Βαρβάρας",
+    "coordinates": [
+      37.9905083,
+      23.6598125
+    ],
+    "slug": "dimos-agias-varvaras"
+  },
+  {
+    "name": "Δήμος Αγίας Παρασκευής",
+    "coordinates": [
+      38.0066759,
+      23.8226942
+    ],
+    "slug": "dimos-agias-paraskeyis"
+  },
+  {
+    "name": "Δήμος Αγίου Βασιλείου",
+    "coordinates": [
+      35.2191282,
+      24.5354417
+    ],
+    "slug": "dimos-agioy-vasileioy"
+  },
+  {
+    "name": "Δήμος Αγίου Δημητρίου",
+    "coordinates": [
+      37.9395104,
+      23.7315951
+    ],
+    "slug": "dimos-agioy-dimitrioy"
+  },
+  {
+    "name": "Δήμος Αγίου Ευστρατίου",
+    "coordinates": [
+      39.5390825,
+      24.9904043
+    ],
+    "slug": "dimos-agioy-eystratioy"
+  },
+  {
+    "name": "Δήμος Αγίου Νικολάου",
+    "coordinates": [
+      35.1905899,
+      25.7175216
+    ],
+    "slug": "dimos-agioy-nikolaoy"
+  },
+  {
+    "name": "Δήμος Αγίων Αναργύρων-Καματερού",
+    "coordinates": [
+      38.0272804,
+      23.717984
+    ],
+    "slug": "dimos-agion-anargyron-kamateroy"
+  },
+  {
+    "name": "Δήμος Αγκιστρίου",
+    "coordinates": [
+      37.71102,
+      23.3465761
+    ],
+    "slug": "dimos-agkistrioy"
+  },
+  {
+    "name": "Δήμος Αγράφων",
+    "coordinates": [
+      39.0050326,
+      21.6383931
+    ],
+    "slug": "dimos-agrafon"
+  },
+  {
+    "name": "Δήμος Αγρινίου",
+    "coordinates": [
+      38.6248275,
+      21.4094206
+    ],
+    "slug": "dimos-agrinioy"
+  },
+  {
+    "name": "Δήμος Αθηναίων",
+    "coordinates": [
+      37.9755648,
+      23.7348324
+    ],
+    "slug": "dimos-athinaion"
+  },
+  {
+    "name": "Δήμος Αιγάλεω",
+    "coordinates": [
+      37.9915665,
+      23.6818754
+    ],
+    "slug": "dimos-aigaleo"
+  },
+  {
+    "name": "Δήμος Αιγιαλείας",
+    "coordinates": [
+      38.2505699,
+      22.0852909
+    ],
+    "slug": "dimos-aigialeias"
+  },
+  {
+    "name": "Δήμος Αίγινας",
+    "coordinates": [
+      37.746703,
+      23.4306251
+    ],
+    "slug": "dimos-aiginas"
+  },
+  {
+    "name": "Δήμος Ακτίου-Βόνιτσας",
+    "coordinates": [
+      38.9184883,
+      20.8893237
+    ],
+    "slug": "dimos-aktioy-vonitsas"
+  },
+  {
+    "name": "Δήμος Αλεξάνδρειας",
+    "coordinates": [
+      40.6279906,
+      22.4448468
+    ],
+    "slug": "dimos-alexandreias"
+  },
+  {
+    "name": "Δήμος Αλεξανδρούπολης",
+    "coordinates": [
+      40.845666,
+      25.8778814
+    ],
+    "slug": "dimos-alexandroypolis"
+  },
+  {
+    "name": "Δήμος Αλιάρτου-Θεσπιέων",
+    "coordinates": [
+      38.3727657,
+      23.1015479
+    ],
+    "slug": "dimos-aliartoy-thespieon"
+  },
+  {
+    "name": "Δήμος Αλίμου",
+    "coordinates": [
+      37.9112117,
+      23.7131071
+    ],
+    "slug": "dimos-alimoy"
+  },
+  {
+    "name": "Δήμος Αλμυρού",
+    "coordinates": [
+      39.1807614,
+      22.7609792
+    ],
+    "slug": "dimos-almyroy"
+  },
+  {
+    "name": "Δήμος Αλμωπίας",
+    "coordinates": [
+      40.9755942,
+      22.0613735
+    ],
+    "slug": "dimos-almopias"
+  },
+  {
+    "name": "Δήμος Αλοννήσου",
+    "coordinates": [
+      39.1460159,
+      23.8643484
+    ],
+    "slug": "dimos-alonnisoy"
+  },
+  {
+    "name": "Δήμος Αμαρίου",
+    "coordinates": [
+      35.25399,
+      24.63025
+    ],
+    "slug": "dimos-amarioy"
+  },
+  {
+    "name": "Δήμος Αμαρουσίου",
+    "coordinates": [
+      38.0546653,
+      23.8081533
+    ],
+    "slug": "dimos-amaroysioy"
+  },
+  {
+    "name": "Δήμος Αμοργού",
+    "coordinates": [
+      36.8318538,
+      25.898433
+    ],
+    "slug": "dimos-amorgoy"
+  },
+  {
+    "name": "Δήμος Αμπελοκήπων-Μενεμένης",
+    "coordinates": [
+      40.6545469,
+      22.923514
+    ],
+    "slug": "dimos-ampelokipon-menemenis"
+  },
+  {
+    "name": "Δήμος Αμυνταίου",
+    "coordinates": [
+      40.6897584,
+      21.6790753
+    ],
+    "slug": "dimos-amyntaioy"
+  },
+  {
+    "name": "Δήμος Αμφίκλειας-Ελάτειας",
+    "coordinates": [
+      38.606657,
+      22.7131872
+    ],
+    "slug": "dimos-amfikleias-elateias"
+  },
+  {
+    "name": "Δήμος Αμφιλοχίας",
+    "coordinates": [
+      38.8634219,
+      21.1666731
+    ],
+    "slug": "dimos-amfilochias"
+  },
+  {
+    "name": "Δήμος Αμφίπολης",
+    "coordinates": [
+      40.9221899,
+      23.9728026
+    ],
+    "slug": "dimos-amfipolis"
+  },
+  {
+    "name": "Δήμος Ανατολικής Μάνης",
+    "coordinates": [
+      36.761578,
+      22.5659499
+    ],
+    "slug": "dimos-anatolikis-manis"
+  },
+  {
+    "name": "Δήμος Ανατολικής Σάμου",
+    "coordinates": [
+      37.7576156,
+      26.9727416
+    ],
+    "slug": "dimos-anatolikis-samoy"
+  },
+  {
+    "name": "Δήμος Ανάφης",
+    "coordinates": [
+      36.3509372,
+      25.7673712
+    ],
+    "slug": "dimos-anafis"
+  },
+  {
+    "name": "Δήμος Ανδραβίδας-Κυλλήνης",
+    "coordinates": [
+      37.9373907,
+      21.2633204
+    ],
+    "slug": "dimos-andravidas-kyllinis"
+  },
+  {
+    "name": "Δήμος Ανδρίτσαινας-Κρεστένων",
+    "coordinates": [
+      37.5923491,
+      21.6212195
+    ],
+    "slug": "dimos-andritsainas-krestenon"
+  },
+  {
+    "name": "Δήμος Άνδρου",
+    "coordinates": [
+      37.8367389,
+      24.936779
+    ],
+    "slug": "dimos-androy"
+  },
+  {
+    "name": "Δήμος Αντιπάρου",
+    "coordinates": [
+      37.0399,
+      25.07962
+    ],
+    "slug": "dimos-antiparoy"
+  },
+  {
+    "name": "Δήμος Ανωγείων",
+    "coordinates": [
+      35.2907619,
+      24.8837274
+    ],
+    "slug": "dimos-anogeion"
+  },
+  {
+    "name": "Δήμος Αποκορώνου",
+    "coordinates": [
+      35.3767661,
+      24.2014494
+    ],
+    "slug": "dimos-apokoronoy"
+  },
+  {
+    "name": "Δήμος Αργιθέας",
+    "coordinates": [
+      39.3475613,
+      21.4583315
+    ],
+    "slug": "dimos-argitheas"
+  },
+  {
+    "name": "Δήμος Αργοστολίου",
+    "coordinates": [
+      38.1756733,
+      20.4878796
+    ],
+    "slug": "dimos-argostolioy"
+  },
+  {
+    "name": "Δήμος Άργους Ορεστικού",
+    "coordinates": [
+      40.452622,
+      21.2578806
+    ],
+    "slug": "dimos-argoys-orestikoy"
+  },
+  {
+    "name": "Δήμος Άργους-Μυκηνών",
+    "coordinates": [
+      37.6349668,
+      22.7285084
+    ],
+    "slug": "dimos-argoys-mykinon"
+  },
+  {
+    "name": "Δήμος Αριστοτέλη",
+    "coordinates": [
+      40.3979096,
+      23.8776231
+    ],
+    "slug": "dimos-aristoteli"
+  },
+  {
+    "name": "Δήμος Αρριανών",
+    "coordinates": [
+      41.121613,
+      25.6322329
+    ],
+    "slug": "dimos-arrianon"
+  },
+  {
+    "name": "Δήμος Αρταίων",
+    "coordinates": [
+      39.1613205,
+      20.986264
+    ],
+    "slug": "dimos-artaion"
+  },
+  {
+    "name": "Δήμος Αρχαίας Ολυμπίας",
+    "coordinates": [
+      37.6441431,
+      21.6252773
+    ],
+    "slug": "dimos-archaias-olympias"
+  },
+  {
+    "name": "Δήμος Αρχανών-Αστερουσίων",
+    "coordinates": [
+      35.2182804,
+      25.1921764
+    ],
+    "slug": "dimos-archanon-asteroysion"
+  },
+  {
+    "name": "Δήμος Ασπροπύργου",
+    "coordinates": [
+      38.058688,
+      23.5888352
+    ],
+    "slug": "dimos-aspropyrgoy"
+  },
+  {
+    "name": "Δήμος Αστυπάλαιας",
+    "coordinates": [
+      36.5478653,
+      26.3519441
+    ],
+    "slug": "dimos-astypalaias"
+  },
+  {
+    "name": "Δήμος Αχαρνών",
+    "coordinates": [
+      38.0841607,
+      23.7368653
+    ],
+    "slug": "dimos-acharnon"
+  },
+  {
+    "name": "Δήμος Βάρης-Βούλας-Βουλιαγμένης",
+    "coordinates": [
+      37.8454602,
+      23.7615346
+    ],
+    "slug": "dimos-varis-voylas-voyliagmenis"
+  },
+  {
+    "name": "Δήμος Βελβεντού",
+    "coordinates": [
+      40.2554619,
+      22.0722245
+    ],
+    "slug": "dimos-velventoy"
+  },
+  {
+    "name": "Δήμος Βέλου-Βόχας",
+    "coordinates": [
+      37.9392701,
+      22.8008903
+    ],
+    "slug": "dimos-veloy-vochas"
+  },
+  {
+    "name": "Δήμος Βέροιας",
+    "coordinates": [
+      40.5215342,
+      22.2036834
+    ],
+    "slug": "dimos-veroias"
+  },
+  {
+    "name": "Δήμος Βιάννου",
+    "coordinates": [
+      35.0541209,
+      25.4096938
+    ],
+    "slug": "dimos-viannoy"
+  },
+  {
+    "name": "Δήμος Βισαλτίας",
+    "coordinates": [
+      40.9078942,
+      23.5003975
+    ],
+    "slug": "dimos-visaltias"
+  },
+  {
+    "name": "Δήμος Βοΐου",
+    "coordinates": [
+      40.2601606,
+      21.5509796
+    ],
+    "slug": "dimos-voioy"
+  },
+  {
+    "name": "Δήμος Βόλβης",
+    "coordinates": [
+      40.6653692,
+      23.6997327
+    ],
+    "slug": "dimos-volvis"
+  },
+  {
+    "name": "Δήμος Βόλου",
+    "coordinates": [
+      39.3624833,
+      22.9401864
+    ],
+    "slug": "dimos-voloy"
+  },
+  {
+    "name": "Δήμος Βόρειας Κέρκυρας",
+    "coordinates": [
+      39.7937586,
+      19.819378
+    ],
+    "slug": "dimos-voreias-kerkyras"
+  },
+  {
+    "name": "Δήμος Βόρειας Κυνουρίας",
+    "coordinates": [
+      37.4038253,
+      22.7227585
+    ],
+    "slug": "dimos-voreias-kynoyrias"
+  },
+  {
+    "name": "Δήμος Βορείων Τζουμέρκων",
+    "coordinates": [
+      39.5228447,
+      21.1001557
+    ],
+    "slug": "dimos-voreion-tzoymerkon"
+  },
+  {
+    "name": "Δήμος Βριλησσίων",
+    "coordinates": [
+      38.0399028,
+      23.8389373
+    ],
+    "slug": "dimos-vrilission"
+  },
+  {
+    "name": "Δήμος Βύρωνα",
+    "coordinates": [
+      37.9564565,
+      23.7554813
+    ],
+    "slug": "dimos-vyrona"
+  },
+  {
+    "name": "Δήμος Γαλατσίου",
+    "coordinates": [
+      38.0129055,
+      23.7531049
+    ],
+    "slug": "dimos-galatsioy"
+  },
+  {
+    "name": "Δήμος Γαύδου",
+    "coordinates": [
+      34.8349889,
+      24.0847728
+    ],
+    "slug": "dimos-gaydoy"
+  },
+  {
+    "name": "Δήμος Γεωργίου Καραϊσκάκη",
+    "coordinates": [
+      39.2512297,
+      21.1598168
+    ],
+    "slug": "dimos-georgioy-karaiskaki"
+  },
+  {
+    "name": "Δήμος Γλυφάδας",
+    "coordinates": [
+      37.8615966,
+      23.7545902
+    ],
+    "slug": "dimos-glyfadas"
+  },
+  {
+    "name": "Δήμος Γόρτυνας",
+    "coordinates": [
+      35.0589293,
+      24.9613088
+    ],
+    "slug": "dimos-gortynas"
+  },
+  {
+    "name": "Δήμος Γορτυνίας",
+    "coordinates": [
+      37.595289,
+      22.0400063
+    ],
+    "slug": "dimos-gortynias"
+  },
+  {
+    "name": "Δήμος Γρεβενών",
+    "coordinates": [
+      40.0844637,
+      21.4273985
+    ],
+    "slug": "dimos-grevenon"
+  },
+  {
+    "name": "Δήμος Δάφνης-Υμηττού",
+    "coordinates": [
+      37.9506355,
+      23.7358251
+    ],
+    "slug": "dimos-dafnis-ymittoy"
+  },
+  {
+    "name": "Δήμος Δέλτα",
+    "coordinates": [
+      40.6707672,
+      22.8028882
+    ],
+    "slug": "dimos-delta"
+  },
+  {
+    "name": "Δήμος Δελφών",
+    "coordinates": [
+      38.5272729,
+      22.3783845
+    ],
+    "slug": "dimos-delfon"
+  },
+  {
+    "name": "Δήμος Δεσκάτης",
+    "coordinates": [
+      39.9263117,
+      21.8085686
+    ],
+    "slug": "dimos-deskatis"
+  },
+  {
+    "name": "Δήμος Διδυμοτείχου",
+    "coordinates": [
+      41.3492618,
+      26.4963524
+    ],
+    "slug": "dimos-didymoteichoy"
+  },
+  {
+    "name": "Δήμος Διονύσου",
+    "coordinates": [
+      38.1410051,
+      23.8575845
+    ],
+    "slug": "dimos-dionysoy"
+  },
+  {
+    "name": "Δήμος Δίου-Ολύμπου",
+    "coordinates": [
+      40.1024494,
+      22.5018169
+    ],
+    "slug": "dimos-dioy-olympoy"
+  },
+  {
+    "name": "Δήμος Διρφύων-Μεσσαπίων",
+    "coordinates": [
+      38.5778447,
+      23.642417
+    ],
+    "slug": "dimos-dirfyon-messapion"
+  },
+  {
+    "name": "Δήμος Διστόμου-Αράχοβας-Αντίκυρας",
+    "coordinates": [
+      38.4291946,
+      22.6672151
+    ],
+    "slug": "dimos-distomoy-arachovas-antikyras"
+  },
+  {
+    "name": "Δήμος Δομοκού",
+    "coordinates": [
+      39.1278012,
+      22.3032886
+    ],
+    "slug": "dimos-domokoy"
+  },
+  {
+    "name": "Δήμος Δοξάτου",
+    "coordinates": [
+      41.0529058,
+      24.1902179
+    ],
+    "slug": "dimos-doxatoy"
+  },
+  {
+    "name": "Δήμος Δράμας",
+    "coordinates": [
+      41.1499443,
+      24.1468286
+    ],
+    "slug": "dimos-dramas"
+  },
+  {
+    "name": "Δήμος Δυτικής Αχαΐας",
+    "coordinates": [
+      38.1445824,
+      21.5569637
+    ],
+    "slug": "dimos-dytikis-achaias"
+  },
+  {
+    "name": "Δήμος Δυτικής Λέσβου",
+    "coordinates": [
+      39.2330485,
+      26.2071613
+    ],
+    "slug": "dimos-dytikis-lesvoy"
+  },
+  {
+    "name": "Δήμος Δυτικής Μάνης",
+    "coordinates": [
+      36.888381,
+      22.2323753
+    ],
+    "slug": "dimos-dytikis-manis"
+  },
+  {
+    "name": "Δήμος Δυτικής Σάμου",
+    "coordinates": [
+      37.7903395,
+      26.7055031
+    ],
+    "slug": "dimos-dytikis-samoy"
+  },
+  {
+    "name": "Δήμος Δωδώνης",
+    "coordinates": [
+      39.5215161,
+      20.8769565
+    ],
+    "slug": "dimos-dodonis"
+  },
+  {
+    "name": "Δήμος Δωρίδος",
+    "coordinates": [
+      38.5276063,
+      22.2030735
+    ],
+    "slug": "dimos-doridos"
+  },
+  {
+    "name": "Δήμος Έδεσσας",
+    "coordinates": [
+      40.8008523,
+      22.0503508
+    ],
+    "slug": "dimos-edessas"
+  },
+  {
+    "name": "Δήμος Ελασσόνας",
+    "coordinates": [
+      39.8946279,
+      22.188631
+    ],
+    "slug": "dimos-elassonas"
+  },
+  {
+    "name": "Δήμος Ελαφονήσου",
+    "coordinates": [
+      36.5090278,
+      22.9783259
+    ],
+    "slug": "dimos-elafonisoy"
+  },
+  {
+    "name": "Δήμος Ελευσίνας",
+    "coordinates": [
+      38.047608,
+      23.5348663
+    ],
+    "slug": "dimos-eleysinas"
+  },
+  {
+    "name": "Δήμος Ελληνικού-Αργυρούπολης",
+    "coordinates": [
+      37.9059946,
+      23.7503867
+    ],
+    "slug": "dimos-ellinikoy-argyroypolis"
+  },
+  {
+    "name": "Δήμος Εμμανουήλ Παππά",
+    "coordinates": [
+      41.0593808,
+      23.6489698
+    ],
+    "slug": "dimos-emmanoyil-pappa"
+  },
+  {
+    "name": "Δήμος Εορδαίας",
+    "coordinates": [
+      40.5146139,
+      21.6812621
+    ],
+    "slug": "dimos-eordaias"
+  },
+  {
+    "name": "Δήμος Επιδαύρου",
+    "coordinates": [
+      37.6134069,
+      23.0365657
+    ],
+    "slug": "dimos-epidayroy"
+  },
+  {
+    "name": "Δήμος Ερέτριας",
+    "coordinates": [
+      38.3922898,
+      23.7952709
+    ],
+    "slug": "dimos-eretrias"
+  },
+  {
+    "name": "Δήμος Ερμιονίδας",
+    "coordinates": [
+      37.3805367,
+      23.1601389
+    ],
+    "slug": "dimos-ermionidas"
+  },
+  {
+    "name": "Δήμος Ερυμάνθου",
+    "coordinates": [
+      38.1081346,
+      21.7858533
+    ],
+    "slug": "dimos-erymanthoy"
+  },
+  {
+    "name": "Δήμος Ευρώτα",
+    "coordinates": [
+      36.850877,
+      22.6654441
+    ],
+    "slug": "dimos-eyrota"
+  },
+  {
+    "name": "Δήμος Ζαγοράς-Μουρεσίου",
+    "coordinates": [
+      39.4438441,
+      23.1022243
+    ],
+    "slug": "dimos-zagoras-moyresioy"
+  },
+  {
+    "name": "Δήμος Ζαγορίου",
+    "coordinates": [
+      39.8224985,
+      20.7288145
+    ],
+    "slug": "dimos-zagorioy"
+  },
+  {
+    "name": "Δήμος Ζακύνθου",
+    "coordinates": [
+      37.7828669,
+      20.8962212
+    ],
+    "slug": "dimos-zakynthoy"
+  },
+  {
+    "name": "Δήμος Ζαχάρως",
+    "coordinates": [
+      37.4836375,
+      21.6479171
+    ],
+    "slug": "dimos-zacharos"
+  },
+  {
+    "name": "Δήμος Ζηρού",
+    "coordinates": [
+      39.2053475,
+      20.8829917
+    ],
+    "slug": "dimos-ziroy"
+  },
+  {
+    "name": "Δήμος Ζίτσας",
+    "coordinates": [
+      39.7064252,
+      20.7924395
+    ],
+    "slug": "dimos-zitsas"
+  },
+  {
+    "name": "Δήμος Ζωγράφου",
+    "coordinates": [
+      37.9773935,
+      23.770726
+    ],
+    "slug": "dimos-zografoy"
+  },
+  {
+    "name": "Δήμος Ηγουμενίτσας",
+    "coordinates": [
+      39.5045005,
+      20.2639166
+    ],
+    "slug": "dimos-igoymenitsas"
+  },
+  {
+    "name": "Δήμος Ήλιδας",
+    "coordinates": [
+      37.7971312,
+      21.35145
+    ],
+    "slug": "dimos-ilidas"
+  },
+  {
+    "name": "Δήμος Ηλιούπολης",
+    "coordinates": [
+      37.9321047,
+      23.7559673
+    ],
+    "slug": "dimos-ilioypolis"
+  },
+  {
+    "name": "Δήμος Ηράκλειας",
+    "coordinates": [
+      41.184041,
+      23.2826136
+    ],
+    "slug": "dimos-irakleias"
+  },
+  {
+    "name": "Δήμος Ηρακλείου",
+    "coordinates": [
+      35.33908,
+      25.1332843
+    ],
+    "slug": "dimos-irakleioy"
+  },
+  {
+    "name": "Δήμος Ηρακλείου Αττικής",
+    "coordinates": [
+      38.0483101,
+      23.7661386
+    ],
+    "slug": "dimos-irakleioy-attikis"
+  },
+  {
+    "name": "Δήμος Ηρωικής Νήσου Κάσου",
+    "coordinates": [
+      35.4168991,
+      26.922794
+    ],
+    "slug": "dimos-iroikis-nisoy-kasoy"
+  },
+  {
+    "name": "Δήμος Ηρωικής Νήσου Ψαρών",
+    "coordinates": [
+      38.5406466,
+      25.562889
+    ],
+    "slug": "dimos-iroikis-nisoy-psaron"
+  },
+  {
+    "name": "Δήμος Ηρωικής Πόλεως Νάουσας",
+    "coordinates": [
+      40.630574,
+      22.0696057
+    ],
+    "slug": "dimos-iroikis-poleos-naoysas"
+  },
+  {
+    "name": "Δήμος Θάσου",
+    "coordinates": [
+      40.7787007,
+      24.7090735
+    ],
+    "slug": "dimos-thasoy"
+  },
+  {
+    "name": "Δήμος Θερμαϊκού",
+    "coordinates": [
+      40.5026552,
+      22.9262363
+    ],
+    "slug": "dimos-thermaikoy"
+  },
+  {
+    "name": "Δήμος Θέρμης",
+    "coordinates": [
+      40.5476859,
+      23.0200966
+    ],
+    "slug": "dimos-thermis"
+  },
+  {
+    "name": "Δήμος Θέρμου",
+    "coordinates": [
+      38.575149,
+      21.6677826
+    ],
+    "slug": "dimos-thermoy"
+  },
+  {
+    "name": "Δήμος Θεσσαλονίκης",
+    "coordinates": [
+      40.6403167,
+      22.9352716
+    ],
+    "slug": "dimos-thessalonikis"
+  },
+  {
+    "name": "Δήμος Θηβαίων",
+    "coordinates": [
+      38.3200705,
+      23.3175613
+    ],
+    "slug": "dimos-thivaion"
+  },
+  {
+    "name": "Δήμος Θήρας",
+    "coordinates": [
+      36.4149227,
+      25.4324527
+    ],
+    "slug": "dimos-thiras"
+  },
+  {
+    "name": "Δήμος Ιάσμου",
+    "coordinates": [
+      41.1281529,
+      25.184917
+    ],
+    "slug": "dimos-iasmoy"
+  },
+  {
+    "name": "Δήμος Ιεράπετρας",
+    "coordinates": [
+      35.0080938,
+      25.7391169
+    ],
+    "slug": "dimos-ierapetras"
+  },
+  {
+    "name": "Δήμος Ιεράς Πόλεως Μεσολογγίου",
+    "coordinates": [
+      38.3686353,
+      21.4283544
+    ],
+    "slug": "dimos-ieras-poleos-mesologgioy"
+  },
+  {
+    "name": "Δήμος Ιητών",
+    "coordinates": [
+      36.7221234,
+      25.2813072
+    ],
+    "slug": "dimos-iiton"
+  },
+  {
+    "name": "Δήμος Ιθάκης",
+    "coordinates": [
+      38.3643335,
+      20.7184823
+    ],
+    "slug": "dimos-ithakis"
+  },
+  {
+    "name": "Δήμος Ικαρίας",
+    "coordinates": [
+      37.6123552,
+      26.2941695
+    ],
+    "slug": "dimos-ikarias"
+  },
+  {
+    "name": "Δήμος Ιλίου",
+    "coordinates": [
+      38.0319662,
+      23.7078788
+    ],
+    "slug": "dimos-ilioy"
+  },
+  {
+    "name": "Δήμος Ιστιαίας-Αιδηψού",
+    "coordinates": [
+      38.9534641,
+      23.1509582
+    ],
+    "slug": "dimos-istiaias-aidipsoy"
+  },
+  {
+    "name": "Δήμος Ιωαννιτών",
+    "coordinates": [
+      39.6639818,
+      20.8522784
+    ],
+    "slug": "dimos-ioanniton"
+  },
+  {
+    "name": "Δήμος Καβάλας",
+    "coordinates": [
+      40.9369224,
+      24.4122766
+    ],
+    "slug": "dimos-kavalas"
+  },
+  {
+    "name": "Δήμος Καισαριανής",
+    "coordinates": [
+      37.9688983,
+      23.7619354
+    ],
+    "slug": "dimos-kaisarianis"
+  },
+  {
+    "name": "Δήμος Καλαβρύτων",
+    "coordinates": [
+      38.0333853,
+      22.1103931
+    ],
+    "slug": "dimos-kalavryton"
+  },
+  {
+    "name": "Δήμος Καλαμαριάς",
+    "coordinates": [
+      40.5802957,
+      22.9532625
+    ],
+    "slug": "dimos-kalamarias"
+  },
+  {
+    "name": "Δήμος Καλαμάτας",
+    "coordinates": [
+      37.0372714,
+      22.110707
+    ],
+    "slug": "dimos-kalamatas"
+  },
+  {
+    "name": "Δήμος Καλλιθέας",
+    "coordinates": [
+      37.9560111,
+      23.7033792
+    ],
+    "slug": "dimos-kallitheas"
+  },
+  {
+    "name": "Δήμος Καλυμνίων",
+    "coordinates": [
+      36.9515787,
+      26.9820732
+    ],
+    "slug": "dimos-kalymnion"
+  },
+  {
+    "name": "Δήμος Καμένων Βούρλων",
+    "coordinates": [
+      38.7801344,
+      22.7887006
+    ],
+    "slug": "dimos-kamenon-voyrlon"
+  },
+  {
+    "name": "Δήμος Καντάνου-Σελίνου",
+    "coordinates": [
+      35.2305552,
+      23.6821848
+    ],
+    "slug": "dimos-kantanoy-selinoy"
+  },
+  {
+    "name": "Δήμος Καρδίτσας",
+    "coordinates": [
+      39.3660304,
+      21.9287519
+    ],
+    "slug": "dimos-karditsas"
+  },
+  {
+    "name": "Δήμος Καρπάθου",
+    "coordinates": [
+      35.5065848,
+      27.2127142
+    ],
+    "slug": "dimos-karpathoy"
+  },
+  {
+    "name": "Δήμος Καρπενησίου",
+    "coordinates": [
+      38.9152433,
+      21.7943495
+    ],
+    "slug": "dimos-karpenisioy"
+  },
+  {
+    "name": "Δήμος Καρύστου",
+    "coordinates": [
+      38.0155328,
+      24.4198624
+    ],
+    "slug": "dimos-karystoy"
+  },
+  {
+    "name": "Δήμος Κασσάνδρας",
+    "coordinates": [
+      40.04688,
+      23.41132
+    ],
+    "slug": "dimos-kassandras"
+  },
+  {
+    "name": "Δήμος Καστοριάς",
+    "coordinates": [
+      40.5216297,
+      21.2636522
+    ],
+    "slug": "dimos-kastorias"
+  },
+  {
+    "name": "Δήμος Κατερίνης",
+    "coordinates": [
+      40.2713616,
+      22.5087618
+    ],
+    "slug": "dimos-katerinis"
+  },
+  {
+    "name": "Δήμος Κάτω Νευροκοπίου",
+    "coordinates": [
+      41.3435811,
+      23.866879
+    ],
+    "slug": "dimos-kato-neyrokopioy"
+  },
+  {
+    "name": "Δήμος Κέας",
+    "coordinates": [
+      37.6396811,
+      24.3420173
+    ],
+    "slug": "dimos-keas"
+  },
+  {
+    "name": "Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων",
+    "coordinates": [
+      39.6217347,
+      19.9180908
+    ],
+    "slug": "dimos-kentrikis-kerkyras-kai-diapontion-nison"
+  },
+  {
+    "name": "Δήμος Κεντρικών Τζουμέρκων",
+    "coordinates": [
+      39.3708399,
+      21.1837451
+    ],
+    "slug": "dimos-kentrikon-tzoymerkon"
+  },
+  {
+    "name": "Δήμος Κερατσινίου-Δραπετσώνας",
+    "coordinates": [
+      37.9650175,
+      23.6207952
+    ],
+    "slug": "dimos-keratsinioy-drapetsonas"
+  },
+  {
+    "name": "Δήμος Κηφισιάς",
+    "coordinates": [
+      38.0714005,
+      23.8082604
+    ],
+    "slug": "dimos-kifisias"
+  },
+  {
+    "name": "Δήμος Κιλελέρ",
+    "coordinates": [
+      39.562952,
+      22.4666176
+    ],
+    "slug": "dimos-kileler"
+  },
+  {
+    "name": "Δήμος Κιλκίς",
+    "coordinates": [
+      40.9935874,
+      22.8741455
+    ],
+    "slug": "dimos-kilkis"
+  },
+  {
+    "name": "Δήμος Κιμώλου",
+    "coordinates": [
+      36.7933739,
+      24.5744476
+    ],
+    "slug": "dimos-kimoloy"
+  },
+  {
+    "name": "Δήμος Κισσάμου",
+    "coordinates": [
+      35.4933441,
+      23.6594698
+    ],
+    "slug": "dimos-kissamoy"
+  },
+  {
+    "name": "Δήμος Κοζάνης",
+    "coordinates": [
+      40.3007259,
+      21.7883119
+    ],
+    "slug": "dimos-kozanis"
+  },
+  {
+    "name": "Δήμος Κομοτηνής",
+    "coordinates": [
+      41.1182,
+      25.4035708
+    ],
+    "slug": "dimos-komotinis"
+  },
+  {
+    "name": "Δήμος Κόνιτσας",
+    "coordinates": [
+      40.0442949,
+      20.7432809
+    ],
+    "slug": "dimos-konitsas"
+  },
+  {
+    "name": "Δήμος Κορδελιού-Ευόσμου",
+    "coordinates": [
+      40.6712656,
+      22.9161993
+    ],
+    "slug": "dimos-kordelioy-eyosmoy"
+  },
+  {
+    "name": "Δήμος Κορινθίων",
+    "coordinates": [
+      37.9385413,
+      22.9273768
+    ],
+    "slug": "dimos-korinthion"
+  },
+  {
+    "name": "Δήμος Κορυδαλλού",
+    "coordinates": [
+      37.9844029,
+      23.6495008
+    ],
+    "slug": "dimos-korydalloy"
+  },
+  {
+    "name": "Δήμος Κρωπίας",
+    "coordinates": [
+      37.8986169,
+      23.8740711
+    ],
+    "slug": "dimos-kropias"
+  },
+  {
+    "name": "Δήμος Κυθήρων",
+    "coordinates": [
+      36.1497593,
+      22.9872796
+    ],
+    "slug": "dimos-kythiron"
+  },
+  {
+    "name": "Δήμος Κύθνου",
+    "coordinates": [
+      37.4125622,
+      24.4304873
+    ],
+    "slug": "dimos-kythnoy"
+  },
+  {
+    "name": "Δήμος Κύμης-Αλιβερίου",
+    "coordinates": [
+      38.6348922,
+      24.1027429
+    ],
+    "slug": "dimos-kymis-aliverioy"
+  },
+  {
+    "name": "Δήμος Κω",
+    "coordinates": [
+      36.8940286,
+      27.2866636
+    ],
+    "slug": "dimos-ko"
+  },
+  {
+    "name": "Δήμος Λαγκαδά",
+    "coordinates": [
+      40.7499952,
+      23.0667613
+    ],
+    "slug": "dimos-lagkada"
+  },
+  {
+    "name": "Δήμος Λαμιέων",
+    "coordinates": [
+      38.8993832,
+      22.433582
+    ],
+    "slug": "dimos-lamieon"
+  },
+  {
+    "name": "Δήμος Λαρισαίων",
+    "coordinates": [
+      39.6383092,
+      22.4160706
+    ],
+    "slug": "dimos-larisaion"
+  },
+  {
+    "name": "Δήμος Λαυρεωτικής",
+    "coordinates": [
+      37.7142551,
+      24.0548015
+    ],
+    "slug": "dimos-layreotikis"
+  },
+  {
+    "name": "Δήμος Λεβαδέων",
+    "coordinates": [
+      38.438148,
+      22.8790519
+    ],
+    "slug": "dimos-levadeon"
+  },
+  {
+    "name": "Δήμος Λειψών",
+    "coordinates": [
+      37.29582,
+      26.76953
+    ],
+    "slug": "dimos-leipson"
+  },
+  {
+    "name": "Δήμος Λέρου",
+    "coordinates": [
+      37.1565812,
+      26.8517541
+    ],
+    "slug": "dimos-leroy"
+  },
+  {
+    "name": "Δήμος Λευκάδας",
+    "coordinates": [
+      38.8352622,
+      20.7096606
+    ],
+    "slug": "dimos-leykadas"
+  },
+  {
+    "name": "Δήμος Λήμνου",
+    "coordinates": [
+      39.8754188,
+      25.0634491
+    ],
+    "slug": "dimos-limnoy"
+  },
+  {
+    "name": "Δήμος Ληξουρίου",
+    "coordinates": [
+      38.2020324,
+      20.437465
+    ],
+    "slug": "dimos-lixoyrioy"
+  },
+  {
+    "name": "Δήμος Λίμνης Πλαστήρα",
+    "coordinates": [
+      39.3522016,
+      21.7515317
+    ],
+    "slug": "dimos-limnis-plastira"
+  },
+  {
+    "name": "Δήμος Λοκρών",
+    "coordinates": [
+      38.6533626,
+      23.0001058
+    ],
+    "slug": "dimos-lokron"
+  },
+  {
+    "name": "Δήμος Λουτρακίου-Περαχώρας-Αγίων Θεοδώρων",
+    "coordinates": [
+      37.9743673,
+      22.9777228
+    ],
+    "slug": "dimos-loytrakioy-perachoras-agion-theodoron"
+  },
+  {
+    "name": "Δήμος Λυκόβρυσης-Πεύκης",
+    "coordinates": [
+      38.0599892,
+      23.7924013
+    ],
+    "slug": "dimos-lykovrysis-peykis"
+  },
+  {
+    "name": "Δήμος Μακρακώμης",
+    "coordinates": [
+      38.9093329,
+      22.124911
+    ],
+    "slug": "dimos-makrakomis"
+  },
+  {
+    "name": "Δήμος Μαλεβιζίου",
+    "coordinates": [
+      35.3998656,
+      25.033759
+    ],
+    "slug": "dimos-malevizioy"
+  },
+  {
+    "name": "Δήμος Μάνδρας-Ειδυλλίας",
+    "coordinates": [
+      38.0747896,
+      23.4969518
+    ],
+    "slug": "dimos-mandras-eidyllias"
+  },
+  {
+    "name": "Δήμος Μαντουδίου-Λίμνης-Αγίας Άννας",
+    "coordinates": [
+      38.7650752,
+      23.3176259
+    ],
+    "slug": "dimos-mantoydioy-limnis-agias-annas"
+  },
+  {
+    "name": "Δήμος Μαραθώνος",
+    "coordinates": [
+      38.1532724,
+      23.9620892
+    ],
+    "slug": "dimos-marathonos"
+  },
+  {
+    "name": "Δήμος Μαρκόπουλου Μεσογαίας",
+    "coordinates": [
+      37.8828306,
+      23.9323453
+    ],
+    "slug": "dimos-markopoyloy-mesogaias"
+  },
+  {
+    "name": "Δήμος Μαρωνείας-Σαπών",
+    "coordinates": [
+      41.0244253,
+      25.6953551
+    ],
+    "slug": "dimos-maroneias-sapon"
+  },
+  {
+    "name": "Δήμος Μεγαλόπολης",
+    "coordinates": [
+      37.4012364,
+      22.1356726
+    ],
+    "slug": "dimos-megalopolis"
+  },
+  {
+    "name": "Δήμος Μεγανησίου",
+    "coordinates": [
+      38.6561583,
+      20.7897962
+    ],
+    "slug": "dimos-meganisioy"
+  },
+  {
+    "name": "Δήμος Μεγαρέων",
+    "coordinates": [
+      37.9965887,
+      23.3445017
+    ],
+    "slug": "dimos-megareon"
+  },
+  {
+    "name": "Δήμος Μεγίστης",
+    "coordinates": [
+      36.1485617,
+      29.5897107
+    ],
+    "slug": "dimos-megistis"
+  },
+  {
+    "name": "Δήμος Μεσσήνης",
+    "coordinates": [
+      37.051372,
+      22.0079904
+    ],
+    "slug": "dimos-messinis"
+  },
+  {
+    "name": "Δήμος Μεταμορφώσεως",
+    "coordinates": [
+      38.0611557,
+      23.756419
+    ],
+    "slug": "dimos-metamorfoseos"
+  },
+  {
+    "name": "Δήμος Μετεώρων",
+    "coordinates": [
+      39.7070178,
+      21.6279431
+    ],
+    "slug": "dimos-meteoron"
+  },
+  {
+    "name": "Δήμος Μετσόβου",
+    "coordinates": [
+      39.7693013,
+      21.1830479
+    ],
+    "slug": "dimos-metsovoy"
+  },
+  {
+    "name": "Δήμος Μήλου",
+    "coordinates": [
+      36.7443043,
+      24.4230673
+    ],
+    "slug": "dimos-miloy"
+  },
+  {
+    "name": "Δήμος Μινώα Πεδιάδας",
+    "coordinates": [
+      35.1870231,
+      25.3100173
+    ],
+    "slug": "dimos-minoa-pediadas"
+  },
+  {
+    "name": "Δήμος Μονεμβασίας",
+    "coordinates": [
+      36.8042092,
+      22.8518021
+    ],
+    "slug": "dimos-monemvasias"
+  },
+  {
+    "name": "Δήμος Μοσχάτου-Ταύρου",
+    "coordinates": [
+      37.9535099,
+      23.681799
+    ],
+    "slug": "dimos-moschatoy-tayroy"
+  },
+  {
+    "name": "Δήμος Μουζακίου",
+    "coordinates": [
+      39.4278258,
+      21.664177
+    ],
+    "slug": "dimos-moyzakioy"
+  },
+  {
+    "name": "Δήμος Μύκης",
+    "coordinates": [
+      41.2289374,
+      24.8793386
+    ],
+    "slug": "dimos-mykis"
+  },
+  {
+    "name": "Δήμος Μυκόνου",
+    "coordinates": [
+      37.4450377,
+      25.3259658
+    ],
+    "slug": "dimos-mykonoy"
+  },
+  {
+    "name": "Δήμος Μυλοποτάμου",
+    "coordinates": [
+      35.3699611,
+      24.7039153
+    ],
+    "slug": "dimos-mylopotamoy"
+  },
+  {
+    "name": "Δήμος Μυτιλήνης",
+    "coordinates": [
+      39.1037355,
+      26.554788
+    ],
+    "slug": "dimos-mytilinis"
+  },
+  {
+    "name": "Δήμος Νάξου και Μικρών Κυκλάδων",
+    "coordinates": [
+      37.1020709,
+      25.3762458
+    ],
+    "slug": "dimos-naxoy-kai-mikron-kykladon"
+  },
+  {
+    "name": "Δήμος Ναυπακτίας",
+    "coordinates": [
+      38.3926119,
+      21.8287498
+    ],
+    "slug": "dimos-naypaktias"
+  },
+  {
+    "name": "Δήμος Ναυπλιέων",
+    "coordinates": [
+      37.5659229,
+      22.8068782
+    ],
+    "slug": "dimos-nayplieon"
+  },
+  {
+    "name": "Δήμος Νεάπολης-Συκεών",
+    "coordinates": [
+      40.649673,
+      22.953539
+    ],
+    "slug": "dimos-neapolis-sykeon"
+  },
+  {
+    "name": "Δήμος Νέας Ζίχνης",
+    "coordinates": [
+      41.0307676,
+      23.8285773
+    ],
+    "slug": "dimos-neas-zichnis"
+  },
+  {
+    "name": "Δήμος Νέας Ιωνίας",
+    "coordinates": [
+      38.0425764,
+      23.7583979
+    ],
+    "slug": "dimos-neas-ionias"
+  },
+  {
+    "name": "Δήμος Νέας Προποντίδας",
+    "coordinates": [
+      40.239881,
+      23.2853943
+    ],
+    "slug": "dimos-neas-propontidas"
+  },
+  {
+    "name": "Δήμος Νέας Σμύρνης",
+    "coordinates": [
+      37.9467441,
+      23.7138357
+    ],
+    "slug": "dimos-neas-smyrnis"
+  },
+  {
+    "name": "Δήμος Νέας Φιλαδέλφειας-Νέας Χαλκηδόνας",
+    "coordinates": [
+      38.0435089,
+      23.7458365
+    ],
+    "slug": "dimos-neas-filadelfeias-neas-chalkidonas"
+  },
+  {
+    "name": "Δήμος Νεμέας",
+    "coordinates": [
+      37.8209952,
+      22.6613055
+    ],
+    "slug": "dimos-nemeas"
+  },
+  {
+    "name": "Δήμος Νεστορίου",
+    "coordinates": [
+      40.4167995,
+      21.0573267
+    ],
+    "slug": "dimos-nestorioy"
+  },
+  {
+    "name": "Δήμος Νέστου",
+    "coordinates": [
+      40.984699,
+      24.7025791
+    ],
+    "slug": "dimos-nestoy"
+  },
+  {
+    "name": "Δήμος Νίκαιας-Αγίου Ιωάννη Ρέντη",
+    "coordinates": [
+      37.9682435,
+      23.6490822
+    ],
+    "slug": "dimos-nikaias-agioy-ioanni-renti"
+  },
+  {
+    "name": "Δήμος Νικολάου Σκουφά",
+    "coordinates": [
+      39.167362,
+      21.0346258
+    ],
+    "slug": "dimos-nikolaoy-skoyfa"
+  },
+  {
+    "name": "Δήμος Νισύρου",
+    "coordinates": [
+      36.6109345,
+      27.1319302
+    ],
+    "slug": "dimos-nisyroy"
+  },
+  {
+    "name": "Δήμος Νότιας Κέρκυρας",
+    "coordinates": [
+      39.4227759,
+      20.0628721
+    ],
+    "slug": "dimos-notias-kerkyras"
+  },
+  {
+    "name": "Δήμος Νότιας Κυνουρίας",
+    "coordinates": [
+      37.1663308,
+      22.8604198
+    ],
+    "slug": "dimos-notias-kynoyrias"
+  },
+  {
+    "name": "Δήμος Νοτίου Πηλίου",
+    "coordinates": [
+      39.2259899,
+      23.2194477
+    ],
+    "slug": "dimos-notioy-pilioy"
+  },
+  {
+    "name": "Δήμος Ξάνθης",
+    "coordinates": [
+      41.13805,
+      24.8864089
+    ],
+    "slug": "dimos-xanthis"
+  },
+  {
+    "name": "Δήμος Ξηρομέρου",
+    "coordinates": [
+      38.5355305,
+      21.0815098
+    ],
+    "slug": "dimos-xiromeroy"
+  },
+  {
+    "name": "Δήμος Ξυλοκάστρου-Ευρωστίνης",
+    "coordinates": [
+      38.078321,
+      22.6330434
+    ],
+    "slug": "dimos-xylokastroy-eyrostinis"
+  },
+  {
+    "name": "Δήμος Οινουσσών",
+    "coordinates": [
+      38.51307,
+      26.21992
+    ],
+    "slug": "dimos-oinoysson"
+  },
+  {
+    "name": "Δήμος Οιχαλίας",
+    "coordinates": [
+      37.2244578,
+      21.9676806
+    ],
+    "slug": "dimos-oichalias"
+  },
+  {
+    "name": "Δήμος Ορεστιάδας",
+    "coordinates": [
+      41.5030836,
+      26.5329437
+    ],
+    "slug": "dimos-orestiadas"
+  },
+  {
+    "name": "Δήμος Οροπεδίου Λασιθίου",
+    "coordinates": [
+      35.1986336,
+      25.4890146
+    ],
+    "slug": "dimos-oropedioy-lasithioy"
+  },
+  {
+    "name": "Δήμος Ορχομενού",
+    "coordinates": [
+      38.4933208,
+      22.9797069
+    ],
+    "slug": "dimos-orchomenoy"
+  },
+  {
+    "name": "Δήμος Παγγαίου",
+    "coordinates": [
+      40.916219,
+      24.2556959
+    ],
+    "slug": "dimos-paggaioy"
+  },
+  {
+    "name": "Δήμος Παιανίας",
+    "coordinates": [
+      37.9537116,
+      23.8523932
+    ],
+    "slug": "dimos-paianias"
+  },
+  {
+    "name": "Δήμος Παιονίας",
+    "coordinates": [
+      40.9945865,
+      22.572102
+    ],
+    "slug": "dimos-paionias"
+  },
+  {
+    "name": "Δήμος Παλαιού Φαλήρου",
+    "coordinates": [
+      37.9282756,
+      23.6951675
+    ],
+    "slug": "dimos-palaioy-faliroy"
+  },
+  {
+    "name": "Δήμος Παλαμά",
+    "coordinates": [
+      39.4674426,
+      22.0825628
+    ],
+    "slug": "dimos-palama"
+  },
+  {
+    "name": "Δήμος Παλλήνης",
+    "coordinates": [
+      38.0120455,
+      23.8560814
+    ],
+    "slug": "dimos-pallinis"
+  },
+  {
+    "name": "Δήμος Παξών",
+    "coordinates": [
+      39.19841,
+      20.18513
+    ],
+    "slug": "dimos-paxon"
+  },
+  {
+    "name": "Δήμος Παπάγου-Χολαργού",
+    "coordinates": [
+      38.0018048,
+      23.7982582
+    ],
+    "slug": "dimos-papagoy-cholargoy"
+  },
+  {
+    "name": "Δήμος Παρανεστίου",
+    "coordinates": [
+      41.2666146,
+      24.5002964
+    ],
+    "slug": "dimos-paranestioy"
+  },
+  {
+    "name": "Δήμος Πάργας",
+    "coordinates": [
+      39.2326755,
+      20.5999483
+    ],
+    "slug": "dimos-pargas"
+  },
+  {
+    "name": "Δήμος Πάρου",
+    "coordinates": [
+      37.0842378,
+      25.1503978
+    ],
+    "slug": "dimos-paroy"
+  },
+  {
+    "name": "Δήμος Πάτμου",
+    "coordinates": [
+      37.3097743,
+      26.545868
+    ],
+    "slug": "dimos-patmoy"
+  },
+  {
+    "name": "Δήμος Πατρέων",
+    "coordinates": [
+      38.246242,
+      21.7350847
+    ],
+    "slug": "dimos-patreon"
+  },
+  {
+    "name": "Δήμος Παύλου Μελά",
+    "coordinates": [
+      40.668533,
+      22.9321652
+    ],
+    "slug": "dimos-payloy-mela"
+  },
+  {
+    "name": "Δήμος Πειραιώς",
+    "coordinates": [
+      37.9431594,
+      23.6470593
+    ],
+    "slug": "dimos-peiraios"
+  },
+  {
+    "name": "Δήμος Πέλλας",
+    "coordinates": [
+      40.79304,
+      22.411477
+    ],
+    "slug": "dimos-pellas"
+  },
+  {
+    "name": "Δήμος Πεντέλης",
+    "coordinates": [
+      38.0491855,
+      23.8352653
+    ],
+    "slug": "dimos-pentelis"
+  },
+  {
+    "name": "Δήμος Περάματος",
+    "coordinates": [
+      37.9662294,
+      23.5691709
+    ],
+    "slug": "dimos-peramatos"
+  },
+  {
+    "name": "Δήμος Περιστερίου",
+    "coordinates": [
+      38.0128111,
+      23.6955137
+    ],
+    "slug": "dimos-peristerioy"
+  },
+  {
+    "name": "Δήμος Πετρούπολης",
+    "coordinates": [
+      38.0425567,
+      23.683814
+    ],
+    "slug": "dimos-petroypolis"
+  },
+  {
+    "name": "Δήμος Πηνειού",
+    "coordinates": [
+      37.8507048,
+      21.2542417
+    ],
+    "slug": "dimos-pineioy"
+  },
+  {
+    "name": "Δήμος Πλατανιά",
+    "coordinates": [
+      35.5189101,
+      23.8849543
+    ],
+    "slug": "dimos-platania"
+  },
+  {
+    "name": "Δήμος Πολυγύρου",
+    "coordinates": [
+      40.37804,
+      23.4425494
+    ],
+    "slug": "dimos-polygyroy"
+  },
+  {
+    "name": "Δήμος Πόρου",
+    "coordinates": [
+      37.4995423,
+      23.4529633
+    ],
+    "slug": "dimos-poroy"
+  },
+  {
+    "name": "Δήμος Πρέβεζας",
+    "coordinates": [
+      38.9571673,
+      20.7516209
+    ],
+    "slug": "dimos-prevezas"
+  },
+  {
+    "name": "Δήμος Πρεσπών",
+    "coordinates": [
+      40.8355228,
+      21.1404058
+    ],
+    "slug": "dimos-prespon"
+  },
+  {
+    "name": "Δήμος Προσοτσάνης",
+    "coordinates": [
+      41.1778508,
+      23.9695746
+    ],
+    "slug": "dimos-prosotsanis"
+  },
+  {
+    "name": "Δήμος Πύδνας-Κολινδρού",
+    "coordinates": [
+      40.5021997,
+      22.5414729
+    ],
+    "slug": "dimos-pydnas-kolindroy"
+  },
+  {
+    "name": "Δήμος Πυλαίας-Χορτιάτη",
+    "coordinates": [
+      40.5867928,
+      23.0316119
+    ],
+    "slug": "dimos-pylaias-chortiati"
+  },
+  {
+    "name": "Δήμος Πύλης",
+    "coordinates": [
+      39.4588722,
+      21.6228148
+    ],
+    "slug": "dimos-pylis"
+  },
+  {
+    "name": "Δήμος Πύλου-Νέστορος",
+    "coordinates": [
+      36.9137968,
+      21.6963888
+    ],
+    "slug": "dimos-pyloy-nestoros"
+  },
+  {
+    "name": "Δήμος Πύργου",
+    "coordinates": [
+      37.6722103,
+      21.4392124
+    ],
+    "slug": "dimos-pyrgoy"
+  },
+  {
+    "name": "Δήμος Πωγωνίου",
+    "coordinates": [
+      39.8856327,
+      20.6261063
+    ],
+    "slug": "dimos-pogonioy"
+  },
+  {
+    "name": "Δήμος Ραφήνας-Πικερμίου",
+    "coordinates": [
+      38.0203695,
+      24.0073367
+    ],
+    "slug": "dimos-rafinas-pikermioy"
+  },
+  {
+    "name": "Δήμος Ρεθύμνης",
+    "coordinates": [
+      35.3676472,
+      24.4736079
+    ],
+    "slug": "dimos-rethymnis"
+  },
+  {
+    "name": "Δήμος Ρήγα Φεραίου",
+    "coordinates": [
+      39.3810537,
+      22.7458478
+    ],
+    "slug": "dimos-riga-feraioy"
+  },
+  {
+    "name": "Δήμος Ρόδου",
+    "coordinates": [
+      36.4437233,
+      28.227369
+    ],
+    "slug": "dimos-rodoy"
+  },
+  {
+    "name": "Δήμος Σαλαμίνας",
+    "coordinates": [
+      37.9654391,
+      23.493022
+    ],
+    "slug": "dimos-salaminas"
+  },
+  {
+    "name": "Δήμος Σάμης",
+    "coordinates": [
+      38.2511063,
+      20.6467132
+    ],
+    "slug": "dimos-samis"
+  },
+  {
+    "name": "Δήμος Σαμοθράκης",
+    "coordinates": [
+      40.4744351,
+      25.5248138
+    ],
+    "slug": "dimos-samothrakis"
+  },
+  {
+    "name": "Δήμος Σαρωνικού",
+    "coordinates": [
+      37.8394442,
+      23.9281669
+    ],
+    "slug": "dimos-saronikoy"
+  },
+  {
+    "name": "Δήμος Σερβίων",
+    "coordinates": [
+      40.1846282,
+      21.9990312
+    ],
+    "slug": "dimos-servion"
+  },
+  {
+    "name": "Δήμος Σερίφου",
+    "coordinates": [
+      37.1556994,
+      24.5062056
+    ],
+    "slug": "dimos-serifoy"
+  },
+  {
+    "name": "Δήμος Σερρών",
+    "coordinates": [
+      41.0910711,
+      23.5498031
+    ],
+    "slug": "dimos-serron"
+  },
+  {
+    "name": "Δήμος Σητείας",
+    "coordinates": [
+      35.2066248,
+      26.1049708
+    ],
+    "slug": "dimos-siteias"
+  },
+  {
+    "name": "Δήμος Σιθωνίας",
+    "coordinates": [
+      40.22398,
+      23.66831
+    ],
+    "slug": "dimos-sithonias"
+  },
+  {
+    "name": "Δήμος Σικίνου",
+    "coordinates": [
+      36.6773459,
+      25.14441
+    ],
+    "slug": "dimos-sikinoy"
+  },
+  {
+    "name": "Δήμος Σικυωνίων",
+    "coordinates": [
+      38.00916,
+      22.7507113
+    ],
+    "slug": "dimos-sikyonion"
+  },
+  {
+    "name": "Δήμος Σιντικής",
+    "coordinates": [
+      41.2346699,
+      23.38972
+    ],
+    "slug": "dimos-sintikis"
+  },
+  {
+    "name": "Δήμος Σίφνου",
+    "coordinates": [
+      36.973916,
+      24.7233812
+    ],
+    "slug": "dimos-sifnoy"
+  },
+  {
+    "name": "Δήμος Σκιάθου",
+    "coordinates": [
+      39.1661973,
+      23.4888908
+    ],
+    "slug": "dimos-skiathoy"
+  },
+  {
+    "name": "Δήμος Σκοπέλου",
+    "coordinates": [
+      39.122169,
+      23.7272519
+    ],
+    "slug": "dimos-skopeloy"
+  },
+  {
+    "name": "Δήμος Σκύδρας",
+    "coordinates": [
+      40.7677111,
+      22.1552339
+    ],
+    "slug": "dimos-skydras"
+  },
+  {
+    "name": "Δήμος Σκύρου",
+    "coordinates": [
+      38.9063506,
+      24.5660439
+    ],
+    "slug": "dimos-skyroy"
+  },
+  {
+    "name": "Δήμος Σουλίου",
+    "coordinates": [
+      39.4658248,
+      20.5127897
+    ],
+    "slug": "dimos-soylioy"
+  },
+  {
+    "name": "Δήμος Σουφλίου",
+    "coordinates": [
+      41.1941684,
+      26.302313
+    ],
+    "slug": "dimos-soyflioy"
+  },
+  {
+    "name": "Δήμος Σοφάδων",
+    "coordinates": [
+      39.3375294,
+      22.0971809
+    ],
+    "slug": "dimos-sofadon"
+  },
+  {
+    "name": "Δήμος Σπάρτης",
+    "coordinates": [
+      37.0744494,
+      22.4301778
+    ],
+    "slug": "dimos-spartis"
+  },
+  {
+    "name": "Δήμος Σπάτων-Αρτέμιδος",
+    "coordinates": [
+      37.9613997,
+      23.915915
+    ],
+    "slug": "dimos-spaton-artemidos"
+  },
+  {
+    "name": "Δήμος Σπετσών",
+    "coordinates": [
+      37.26443,
+      23.1577103
+    ],
+    "slug": "dimos-spetson"
+  },
+  {
+    "name": "Δήμος Στυλίδας",
+    "coordinates": [
+      38.9139258,
+      22.6149855
+    ],
+    "slug": "dimos-stylidas"
+  },
+  {
+    "name": "Δήμος Σύμης",
+    "coordinates": [
+      36.6132851,
+      27.8380312
+    ],
+    "slug": "dimos-symis"
+  },
+  {
+    "name": "Δήμος Σύρου-Ερμούπολης",
+    "coordinates": [
+      37.444567,
+      24.9423162
+    ],
+    "slug": "dimos-syroy-ermoypolis"
+  },
+  {
+    "name": "Δήμος Σφακίων",
+    "coordinates": [
+      35.2013308,
+      24.1360907
+    ],
+    "slug": "dimos-sfakion"
+  },
+  {
+    "name": "Δήμος Τανάγρας",
+    "coordinates": [
+      38.3463664,
+      23.5805849
+    ],
+    "slug": "dimos-tanagras"
+  },
+  {
+    "name": "Δήμος Τεμπών",
+    "coordinates": [
+      39.8038097,
+      22.4916561
+    ],
+    "slug": "dimos-tempon"
+  },
+  {
+    "name": "Δήμος Τήλου",
+    "coordinates": [
+      36.4549377,
+      27.3457901
+    ],
+    "slug": "dimos-tiloy"
+  },
+  {
+    "name": "Δήμος Τήνου",
+    "coordinates": [
+      37.537831,
+      25.161245
+    ],
+    "slug": "dimos-tinoy"
+  },
+  {
+    "name": "Δήμος Τοπείρου",
+    "coordinates": [
+      40.9822676,
+      24.7985314
+    ],
+    "slug": "dimos-topeiroy"
+  },
+  {
+    "name": "Δήμος Τρικκαίων",
+    "coordinates": [
+      39.5560869,
+      21.7678844
+    ],
+    "slug": "dimos-trikkaion"
+  },
+  {
+    "name": "Δήμος Τρίπολης",
+    "coordinates": [
+      37.5102911,
+      22.3724241
+    ],
+    "slug": "dimos-tripolis"
+  },
+  {
+    "name": "Δήμος Τριφυλίας",
+    "coordinates": [
+      37.251085,
+      21.6690119
+    ],
+    "slug": "dimos-trifylias"
+  },
+  {
+    "name": "Δήμος Τροιζηνίας-Μεθάνων",
+    "coordinates": [
+      37.4964664,
+      23.448144
+    ],
+    "slug": "dimos-troizinias-methanon"
+  },
+  {
+    "name": "Δήμος Τυρνάβου",
+    "coordinates": [
+      39.7388604,
+      22.2882216
+    ],
+    "slug": "dimos-tyrnavoy"
+  },
+  {
+    "name": "Δήμος Ύδρας",
+    "coordinates": [
+      37.3496213,
+      23.4661222
+    ],
+    "slug": "dimos-ydras"
+  },
+  {
+    "name": "Δήμος Φαιστού",
+    "coordinates": [
+      35.0518168,
+      24.8727818
+    ],
+    "slug": "dimos-faistoy"
+  },
+  {
+    "name": "Δήμος Φαρκαδόνας",
+    "coordinates": [
+      39.5923465,
+      22.0689119
+    ],
+    "slug": "dimos-farkadonas"
+  },
+  {
+    "name": "Δήμος Φαρσάλων",
+    "coordinates": [
+      39.2949611,
+      22.384792
+    ],
+    "slug": "dimos-farsalon"
+  },
+  {
+    "name": "Δήμος Φιλιατών",
+    "coordinates": [
+      39.6001944,
+      20.3093103
+    ],
+    "slug": "dimos-filiaton"
+  },
+  {
+    "name": "Δήμος Φιλοθέης-Ψυχικού",
+    "coordinates": [
+      38.0130854,
+      23.772085
+    ],
+    "slug": "dimos-filotheis-psychikoy"
+  },
+  {
+    "name": "Δήμος Φλώρινας",
+    "coordinates": [
+      40.7829027,
+      21.4138858
+    ],
+    "slug": "dimos-florinas"
+  },
+  {
+    "name": "Δήμος Φολεγάνδρου",
+    "coordinates": [
+      36.6281206,
+      24.9196575
+    ],
+    "slug": "dimos-folegandroy"
+  },
+  {
+    "name": "Δήμος Φούρνων Κορσεών",
+    "coordinates": [
+      37.57621,
+      26.48022
+    ],
+    "slug": "dimos-foyrnon-korseon"
+  },
+  {
+    "name": "Δήμος Φυλής",
+    "coordinates": [
+      38.0850569,
+      23.7059206
+    ],
+    "slug": "dimos-fylis"
+  },
+  {
+    "name": "Δήμος Χαϊδαρίου",
+    "coordinates": [
+      38.0070659,
+      23.6563151
+    ],
+    "slug": "dimos-chaidarioy"
+  },
+  {
+    "name": "Δήμος Χαλανδρίου",
+    "coordinates": [
+      38.0215202,
+      23.7984139
+    ],
+    "slug": "dimos-chalandrioy"
+  },
+  {
+    "name": "Δήμος Χαλκηδόνος",
+    "coordinates": [
+      40.7786437,
+      22.5775615
+    ],
+    "slug": "dimos-chalkidonos"
+  },
+  {
+    "name": "Δήμος Χάλκης",
+    "coordinates": [
+      36.2227925,
+      27.611466
+    ],
+    "slug": "dimos-chalkis"
+  },
+  {
+    "name": "Δήμος Χαλκιδέων",
+    "coordinates": [
+      38.4623664,
+      23.5946877
+    ],
+    "slug": "dimos-chalkideon"
+  },
+  {
+    "name": "Δήμος Χανίων",
+    "coordinates": [
+      35.5120831,
+      24.0191544
+    ],
+    "slug": "dimos-chanion"
+  },
+  {
+    "name": "Δήμος Χερσονήσου",
+    "coordinates": [
+      35.3277586,
+      25.2768134
+    ],
+    "slug": "dimos-chersonisoy"
+  },
+  {
+    "name": "Δήμος Χίου",
+    "coordinates": [
+      38.37153,
+      26.1359
+    ],
+    "slug": "dimos-chioy"
+  },
+  {
+    "name": "Δήμος Ωραιοκάστρου",
+    "coordinates": [
+      40.7259058,
+      22.9189694
+    ],
+    "slug": "dimos-oraiokastroy"
+  },
+  {
+    "name": "Δήμος Ωρωπού",
+    "coordinates": [
+      38.304395,
+      23.7533067
+    ],
+    "slug": "dimos-oropoy"
+  }
+]
